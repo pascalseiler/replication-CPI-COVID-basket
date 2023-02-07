@@ -33,4 +33,4 @@ Tested in: R version 4.1.2 on Windows 10 (64-bit).
 
 [\output](output/): Stores tables from analysis
 
-[Paper](Paper.pdf): PDF containing paper and appendix
+[Paper](paper.pdf): PDF containing paper and appendix
